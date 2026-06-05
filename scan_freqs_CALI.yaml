@@ -1,0 +1,9 @@
+Scan:
+  wait: 0.6        # seconds
+  dwell: 1         # seconds
+  frequencies: [2592.5, 4312, 6441]  # kHz
+
+Scan:
+  wait: 0.6        # seconds
+  dwell: 1         # seconds
+  frequencies: [8153.5, 12885.5]  # kHz  
